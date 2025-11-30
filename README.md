@@ -17,9 +17,9 @@ The dashboard was built using the following tools and technologies:
   * 📁 File Formats – .pbix for development,dashboard previews and documentation.
 
 ### Final Files
-* power Bi Dashboard: (https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/13efa68e169b84c353ff5a021e13831870c84a4f/ola%20powerbi.pbix)
-* Excel(source dataset): (https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/Booking.xlsx)
-* SQL :
+* power Bi Dashboard: [PowerBI Dashboard](https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/13efa68e169b84c353ff5a021e13831870c84a4f/ola%20powerbi.pbix)
+* Excel(source dataset): [Excel File](https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/Booking.xlsx)
+* SQL :[SQL File](https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/ola%20Sql.sql)
 
 ### 4. Screenshot
 show what the dashboard looks like:
