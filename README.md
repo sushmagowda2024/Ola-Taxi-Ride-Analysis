@@ -18,7 +18,8 @@ The dashboard was built using the following tools and technologies:
 
 ### Final Files
 * power Bi Dashboard: (https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/13efa68e169b84c353ff5a021e13831870c84a4f/ola%20powerbi.pbix)
-* Excel(source dataset): 
+* Excel(source dataset): (https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/Booking.xlsx)
+* SQL :
 
 ### 4. Screenshot
 show what the dashboard looks like:
