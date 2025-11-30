@@ -17,7 +17,8 @@ The dashboard was built using the following tools and technologies:
   * 📁 File Formats – .pbix for development,dashboard previews and documentation.
 
 ### Final Files
-power Bi Dashboard: 
+* power Bi Dashboard: (https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/13efa68e169b84c353ff5a021e13831870c84a4f/ola%20powerbi.pbix)
+* Excel(source dataset): 
 
 ### 4. Screenshot
 show what the dashboard looks like:
