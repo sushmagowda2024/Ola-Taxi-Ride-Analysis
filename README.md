@@ -19,4 +19,3 @@ The dashboard was built using the following tools and technologies:
 ### 4. Screenshot
 show what the dashboard looks like:
 [Dashboard Preview](https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/overview.jpg)
-(screenshot)(https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/overview.jpg)
