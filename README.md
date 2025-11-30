@@ -17,4 +17,4 @@ This project analyzes Ola ride operations by breaking down bookings, cancellatio
 
 ### 4. Screenshot
 show what the dashboard looks like:
-()
+https://github.com/sushmagowda2024/Ola-Taxi-Ride-Analysis/blob/main/overview.jpg
